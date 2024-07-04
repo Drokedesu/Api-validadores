@@ -1,0 +1,10 @@
+.carousel-inner{
+    max-height: 39rem;
+}
+
+.card-img-top {
+    margin: 10px;
+    width: calc(100% - 20px);
+    height: 200px;
+    object-fit: cover;
+}
